@@ -8,7 +8,7 @@ var maxDrops = 100;
 var umbrella;
 var rand;
 var night;
-var Thunder,thunder1,thunder2,thunder3,thunder4,
+var Thunder,thunder1,thunder2,thunder3,thunder4,;
 var thunderCreatedFrame = 0;
 
 
